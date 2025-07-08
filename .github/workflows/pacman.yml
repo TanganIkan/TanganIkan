@@ -13,9 +13,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # Ganti "uses" dengan path yang benar
+      # Menggunakan ID commit spesifik untuk memastikan action ditemukan
       - name: Generate Pac-Man
-        uses: platane/github-readme-pacman@main # <-- INI BAGIAN YANG DIPERBAIKI
+        uses: platane/github-readme-pacman@4b08711d94b0d8a5a4c5598144214f4469796b27 # <-- INI PERUBAHAN KUNCI
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OUT_PATH: 'output/pacman-contribution-graph.svg'
