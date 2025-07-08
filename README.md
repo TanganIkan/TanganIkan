@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tuadi</h1>
 <h3 align="center">A Computer Science Student from Bali, Indonesia</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanganIkan/TanganIkan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanganIkan/TanganIkan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TanganIkan/TanganIkan/output/pacman-contribution-graph.svg">
+</picture>
+
+###
  <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=TanganIkan&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" /> 
 </p>
