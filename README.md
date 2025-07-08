@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tuadi</h1>
 <h3 align="center">A Computer Science Student from Bali, Indonesia</h3>
-
+ <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=TanganIkan&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" /> 
+</p>
+<p align="left">
+  <a href="https://instagram.com/permanaadiiii">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/./">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 <br>
 
 - 🎓 I am currently **Studying at the Indonesia Institute of Business and Technology (INSTIKI)**.
@@ -10,7 +21,6 @@
 - ⚡ Unique facts: **I enjoy building mechanical keyboards.**
 
 <br>
-
 <h3 align="center">My Activity Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TanganIkan&show_icons=true&theme=tokyonight" alt="Statistik GitHub" />
@@ -45,3 +55,5 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
    </a>
  </p>
+
+
