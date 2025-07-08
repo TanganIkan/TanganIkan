@@ -2,24 +2,21 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Berjalan setiap 12 jam
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
-    # MEMBERIKAN IZIN UNTUK MENULIS FILE
     permissions:
       contents: write
-      
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
-      # Membuat grafik Pac-Man
+      # Ganti "uses" dengan path yang benar
       - name: Generate Pac-Man
-        uses: ThaDon/github-readme-pacman@v1.2.0
+        uses: platane/github-readme-pacman@main # <-- INI BAGIAN YANG DIPERBAIKI
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Path file output harus sama persis dengan yang ada di README.md
           OUT_PATH: 'output/pacman-contribution-graph.svg'
           OUT_PATH_DARK: 'output/pacman-contribution-graph-dark.svg'
