@@ -7,6 +7,7 @@
 </picture>
 
 ###
+
  <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=TanganIkan&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" /> 
 </p>
