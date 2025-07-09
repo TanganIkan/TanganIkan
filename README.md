@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=TanganIkan&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" /> 
 </p>
 <p align="left">
-  <a href="https://instagram.com/permanaadiiii">
+  <a href="https://instagram.com/permanaadiiii_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
