@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tuadi</h1>
 <h3 align="center">A Computer Science Student from Bali, Indonesia</h3>
-<img src="https://raw.githubusercontent.com/TanganIkan/TanganIkan/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanganIkan/TanganIkan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanganIkan/TanganIkan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TanganIkan/TanganIkan/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
