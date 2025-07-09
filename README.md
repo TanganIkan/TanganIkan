@@ -8,9 +8,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/TanganIkan/count.svg?"  />
-</div>
+<img src="https://komarev.com/ghpvc/?username=TanganIkan" />
 
 ###
 <p align="left">
