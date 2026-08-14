@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="[https://www.linkedin.com/in/./](https://www.linkedin.com/in/permana-adi-98480a255/)">
+  <a href="https://www.linkedin.com/in/./(https://www.linkedin.com/in/permana-adi-98480a255/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
