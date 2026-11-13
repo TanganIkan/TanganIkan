@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="512" viewBox="0 0 1200 512" role="img" aria-label="About me: informatic engineering student at INSTIKI, web developer and QA engineer, learning machine learning, ask me about JavaScript, PHP, React, Node.js and Playwright, hobby: gym">
+  <title>About me: informatic engineering student at INSTIKI, web developer and QA engineer, learning machine learning, ask me about JavaScript, PHP, React, Node.js and Playwright, hobby: gym</title>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity="0.035"/>
+    </pattern>
+    <pattern id="dither" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="1" height="1" fill="#3d3d3d"/><rect x="2" y="2" width="1" height="1" fill="#3d3d3d"/>
+    </pattern>
+    <path id="spark" d="M0,-1 C0.1,-0.1 0.1,-0.1 1,0 C0.1,0.1 0.1,0.1 0,1 C-0.1,0.1 -0.1,0.1 -1,0 C-0.1,-0.1 -0.1,-0.1 0,-1Z"/>
+  </defs>
+  <rect x="10" y="10" width="1180" height="492" fill="#0a0a0a" stroke="#3d3d3d" stroke-width="2"/>
+  <rect x="14" y="14" width="1172" height="30" fill="#262626"/>
+  <rect x="14" y="14" width="1172" height="30" fill="url(#dither)"/>
+  <g transform="translate(30 29)"><use xlink:href="#spark" transform="scale(7)" fill="#f4f4f4"/></g>
+  <text x="46" y="34" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="15" font-weight="bold" fill="#f4f4f4" letter-spacing="1">about_me.txt — permanaadi@bali:~</text>
+  <rect x="1094" y="18" width="22" height="20" fill="#2f2f2f"/>
+  <path d="M1094,38 L1094,18 L1116,18" fill="none" stroke="#4a4a4a" stroke-width="2"/>
+  <path d="M1116,18 L1116,38 L1094,38" fill="none" stroke="#000000" stroke-width="2"/><line x1="1101" y1="33" x2="1109" y2="33" stroke="#f4f4f4" stroke-width="2"/>
+  <rect x="1122" y="18" width="22" height="20" fill="#2f2f2f"/>
+  <path d="M1122,38 L1122,18 L1144,18" fill="none" stroke="#4a4a4a" stroke-width="2"/>
+  <path d="M1144,18 L1144,38 L1122,38" fill="none" stroke="#000000" stroke-width="2"/><rect x="1128" y="23" width="10" height="9" fill="none" stroke="#f4f4f4" stroke-width="1.6"/>
+  <rect x="1150" y="18" width="22" height="20" fill="#2f2f2f"/>
+  <path d="M1150,38 L1150,18 L1172,18" fill="none" stroke="#4a4a4a" stroke-width="2"/>
+  <path d="M1172,18 L1172,38 L1150,38" fill="none" stroke="#000000" stroke-width="2"/><path d="M1156.5,23.5 L1165.5,32.5 M1165.5,23.5 L1156.5,32.5" stroke="#f4f4f4" stroke-width="2"/>
+  <rect x="30" y="60" width="730" height="424" fill="#050505"/>
+  <path d="M30,484 L30,60 L760,60" fill="none" stroke="#000000" stroke-width="2"/>
+  <path d="M760,60 L760,484 L30,484" fill="none" stroke="#4a4a4a" stroke-width="2"/>
+  <clipPath id="c0"><rect x="52" y="80" width="289.0" height="28">
+    <animate attributeName="width" values="0;0;216.6;289.0;289.0;0" keyTimes="0;0.0211;0.0216;0.0505;0.9368;1" dur="19.0s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="52" y="100" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="19" font-weight="bold" clip-path="url(#c0)" xml:space="preserve"><tspan fill="#f4f4f4">permanaadi@bali</tspan><tspan fill="#6e6e6e">:</tspan><tspan fill="#9c9c9c">~</tspan><tspan fill="#6e6e6e">$ </tspan><tspan fill="#f4f4f4">whoami</tspan></text>
+  <text x="52" y="136" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="19" fill="#9c9c9c"><tspan fill="#6e6e6e">›</tspan> informatic engineering student @ INSTIKI
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.0689;0.0695;0.9368;1" dur="19.0s" repeatCount="indefinite"/>
+  </text>
+  <clipPath id="c2"><rect x="52" y="152" width="425.8" height="28">
+    <animate attributeName="width" values="0;0;216.6;425.8;425.8;0" keyTimes="0;0.1058;0.1063;0.1732;0.9368;1" dur="19.0s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="52" y="172" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="19" font-weight="bold" clip-path="url(#c2)" xml:space="preserve"><tspan fill="#f4f4f4">permanaadi@bali</tspan><tspan fill="#6e6e6e">:</tspan><tspan fill="#9c9c9c">~</tspan><tspan fill="#6e6e6e">$ </tspan><tspan fill="#f4f4f4">cat experience.log</tspan></text>
+  <text x="52" y="208" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="19" fill="#9c9c9c"><tspan fill="#6e6e6e">›</tspan> web developer &amp; qa engineer
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1916;0.1921;0.9368;1" dur="19.0s" repeatCount="indefinite"/>
+  </text>
+  <clipPath id="c4"><rect x="52" y="224" width="517.0" height="28">
+    <animate attributeName="width" values="0;0;216.6;517.0;517.0;0" keyTimes="0;0.2284;0.2289;0.3211;0.9368;1" dur="19.0s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="52" y="244" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="19" font-weight="bold" clip-path="url(#c4)" xml:space="preserve"><tspan fill="#f4f4f4">permanaadi@bali</tspan><tspan fill="#6e6e6e">:</tspan><tspan fill="#9c9c9c">~</tspan><tspan fill="#6e6e6e">$ </tspan><tspan fill="#f4f4f4">cat currently_learning.txt</tspan></text>
+  <text x="52" y="280" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="19" fill="#9c9c9c"><tspan fill="#6e6e6e">›</tspan> machine learning
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.3395;0.3400;0.9368;1" dur="19.0s" repeatCount="indefinite"/>
+  </text>
+  <clipPath id="c6"><rect x="52" y="296" width="380.2" height="28">
+    <animate attributeName="width" values="0;0;216.6;380.2;380.2;0" keyTimes="0;0.3763;0.3768;0.4311;0.9368;1" dur="19.0s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="52" y="316" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="19" font-weight="bold" clip-path="url(#c6)" xml:space="preserve"><tspan fill="#f4f4f4">permanaadi@bali</tspan><tspan fill="#6e6e6e">:</tspan><tspan fill="#9c9c9c">~</tspan><tspan fill="#6e6e6e">$ </tspan><tspan fill="#f4f4f4">ask --me-about</tspan></text>
+  <text x="52" y="352" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="19" fill="#9c9c9c"><tspan fill="#6e6e6e">›</tspan> javascript · php · react · node.js · playwright
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.4495;0.4500;0.9368;1" dur="19.0s" repeatCount="indefinite"/>
+  </text>
+  <clipPath id="c8"><rect x="52" y="368" width="368.8" height="28">
+    <animate attributeName="width" values="0;0;216.6;368.8;368.8;0" keyTimes="0;0.4863;0.4868;0.5379;0.9368;1" dur="19.0s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="52" y="388" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="19" font-weight="bold" clip-path="url(#c8)" xml:space="preserve"><tspan fill="#f4f4f4">permanaadi@bali</tspan><tspan fill="#6e6e6e">:</tspan><tspan fill="#9c9c9c">~</tspan><tspan fill="#6e6e6e">$ </tspan><tspan fill="#f4f4f4">cat hobby.txt</tspan></text>
+  <text x="52" y="424" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="19" fill="#9c9c9c"><tspan fill="#6e6e6e">›</tspan> lifting weights at the gym
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5563;0.5568;0.9368;1" dur="19.0s" repeatCount="indefinite"/>
+  </text>
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5932;0.5937;0.9368;1" dur="19.0s" repeatCount="indefinite"/>
+    <text x="52" y="460" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="19" font-weight="bold" xml:space="preserve"><tspan fill="#f4f4f4">permanaadi@bali</tspan><tspan fill="#6e6e6e">:</tspan><tspan fill="#9c9c9c">~</tspan><tspan fill="#6e6e6e">$ </tspan></text>
+    <rect x="268.6" y="443" width="11" height="21" fill="#f4f4f4">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="780" y="60" width="390" height="424" fill="#121212"/>
+  <path d="M780,484 L780,60 L1170,60" fill="none" stroke="#4a4a4a" stroke-width="2"/>
+  <path d="M1170,60 L1170,484 L780,484" fill="none" stroke="#000000" stroke-width="2"/>
+  <text x="975.0" y="96" text-anchor="middle" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="18" font-weight="bold" fill="#f4f4f4" letter-spacing="2">★ system_info.ini ★</text>
+  <line x1="800" y1="112" x2="1150" y2="112" stroke="#3d3d3d" stroke-width="2" stroke-dasharray="4 4"/>
+  <text x="802" y="148" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#6e6e6e">location</text>
+  <text x="910" y="148" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#3d3d3d">=</text>
+  <text x="932" y="148" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#d6d6d6">bali, indonesia</text>
+  <text x="802" y="180" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#6e6e6e">uni</text>
+  <text x="910" y="180" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#3d3d3d">=</text>
+  <text x="932" y="180" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#d6d6d6">INSTIKI</text>
+  <text x="802" y="212" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#6e6e6e">major</text>
+  <text x="910" y="212" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#3d3d3d">=</text>
+  <text x="932" y="212" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#d6d6d6">informatic engineering</text>
+  <text x="802" y="244" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#6e6e6e">role</text>
+  <text x="910" y="244" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#3d3d3d">=</text>
+  <text x="932" y="244" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#d6d6d6">web dev &amp; qa engineer</text>
+  <text x="802" y="276" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#6e6e6e">web stack</text>
+  <text x="910" y="276" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#3d3d3d">=</text>
+  <text x="932" y="276" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#d6d6d6">react · laravel · node</text>
+  <text x="802" y="308" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#6e6e6e">qa tools</text>
+  <text x="910" y="308" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#3d3d3d">=</text>
+  <text x="932" y="308" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#d6d6d6">playwright</text>
+  <text x="802" y="340" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#6e6e6e">hobby</text>
+  <text x="910" y="340" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#3d3d3d">=</text>
+  <text x="932" y="340" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="16" fill="#d6d6d6">gym</text>
+  <text x="800" y="392" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="14" fill="#6e6e6e">loading: machine_learning.dll</text>
+  <rect x="796" y="398" width="358" height="30" fill="#050505"/>
+  <path d="M796,428 L796,398 L1154,398" fill="none" stroke="#000000" stroke-width="2"/>
+  <path d="M1154,398 L1154,428 L796,428" fill="none" stroke="#4a4a4a" stroke-width="2"/>
+  <clipPath id="segclip"><rect x="800" y="402" width="247.1" height="22">
+    <animate attributeName="width" calcMode="discrete" values="0.0;17.6;35.3;52.9;70.6;88.2;105.9;123.5;141.2;158.8;176.5;194.1;211.8;229.4;247.1;247.1;0" keyTimes="0.000;0.057;0.114;0.171;0.229;0.286;0.343;0.400;0.457;0.514;0.571;0.629;0.686;0.743;0.800;0.999;1" dur="7s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <g fill="#f4f4f4" clip-path="url(#segclip)"><rect x="800.0" y="402" width="14.7" height="22"/><rect x="817.6" y="402" width="14.7" height="22"/><rect x="835.3" y="402" width="14.7" height="22"/><rect x="853.0" y="402" width="14.7" height="22"/><rect x="870.6" y="402" width="14.7" height="22"/><rect x="888.2" y="402" width="14.7" height="22"/><rect x="905.9" y="402" width="14.7" height="22"/><rect x="923.5" y="402" width="14.7" height="22"/><rect x="941.2" y="402" width="14.7" height="22"/><rect x="958.9" y="402" width="14.7" height="22"/><rect x="976.5" y="402" width="14.7" height="22"/><rect x="994.1" y="402" width="14.7" height="22"/><rect x="1011.8" y="402" width="14.7" height="22"/><rect x="1029.5" y="402" width="14.7" height="22"/><rect x="1047.1" y="402" width="14.7" height="22"/><rect x="1064.8" y="402" width="14.7" height="22"/><rect x="1082.4" y="402" width="14.7" height="22"/><rect x="1100.0" y="402" width="14.7" height="22"/><rect x="1117.7" y="402" width="14.7" height="22"/><rect x="1135.3" y="402" width="14.7" height="22"/></g>
+  <text x="975.0" y="456" text-anchor="middle" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="14" fill="#9c9c9c">▸ please wait, brain upgrading...<animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></text>
+  <g transform="translate(1150 90)">
+    <g transform="scale(9)">
+      <animateTransform attributeName="transform" type="scale" values="2.25;9;2.25" dur="2.4s" begin="0.5s" repeatCount="indefinite"/>
+      <use xlink:href="#spark" fill="#f4f4f4"/>
+    </g>
+  </g>
+  <rect x="10" y="10" width="1180" height="492" fill="url(#scan)" pointer-events="none"/>
+</svg>

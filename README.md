@@ -1,68 +1,50 @@
-<h1 align="center">Hi 👋, I'm Tuadi</h1>
-<h3 align="center">A Computer Science Student from Bali, Indonesia</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanganIkan/TanganIkan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanganIkan/TanganIkan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TanganIkan/TanganIkan/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://komarev.com/ghpvc/?username=TanganIkan" />
-
-###
-<p align="left">
-  <a href="https://instagram.com/permanaadiiii_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/./">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-<br>
-
-- 🎓 I am currently **Studying at the Indonesia Institute of Business and Technology (INSTIKI)**.
-- 🌱 I’m currently learning **Machine learning**.
-- 💬 Ask me about **JavaScript, PHP, React, or Node.js**.
-- 📫 How to reach me: **iputupermanaadiputra@gmail.com**
-- ⚡ Unique facts: **I enjoy building mechanical keyboards.**
-
-<br>
-<h3 align="center">My Activity Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanganIkan&show_icons=true&theme=tokyonight" alt="Statistik GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanganIkan&layout=compact&theme=tokyonight" alt="Bahasa Teratas" />
-</p>
-
-<br>
- <h3 align="center">Languages and Tools I Use:</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+
+<img src="assets/header.svg" width="100%" alt="Hi there, I'm Permanaadi — Informatic Engineering student, Web Developer & QA Engineer from Bali, Indonesia" />
+
+<br />
+
+<a href="https://instagram.com/permanaadiiii_"><img src="https://img.shields.io/badge/instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=f4f4f4" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/./"><img src="https://img.shields.io/badge/linkedin-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=f4f4f4" alt="LinkedIn" /></a>
+<a href="mailto:iputupermanaadiputra@gmail.com"><img src="https://img.shields.io/badge/email_me-1a1a1a?style=for-the-badge&logo=gmail&logoColor=f4f4f4" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=TanganIkan&label=visitor%20no.&color=3d3d3d&style=for-the-badge" alt="Profile views" />
+
+<br /><br />
+
+<img src="assets/title-about.svg" width="100%" alt="about_me" />
+
+<img src="assets/about.svg" width="100%" alt="whoami: Informatic Engineering student @ INSTIKI · experience: Web Developer & QA Engineer, e2e testing with Playwright · currently learning: machine learning · ask me about: JavaScript, PHP, React, Node.js, Playwright · hobby: gym" />
+
+<img src="assets/title-stack.svg" width="100%" alt="tech_stack" />
+
+<br />
+
+<img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=f4f4f4" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=f4f4f4" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=f4f4f4" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=nextdotjs&logoColor=f4f4f4" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=f4f4f4" alt="Node.js" />
+<img src="https://img.shields.io/badge/Tailwind-1a1a1a?style=for-the-badge&logo=tailwindcss&logoColor=f4f4f4" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Bootstrap-1a1a1a?style=for-the-badge&logo=bootstrap&logoColor=f4f4f4" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=f4f4f4" alt="PHP" />
+<img src="https://img.shields.io/badge/Laravel-1a1a1a?style=for-the-badge&logo=laravel&logoColor=f4f4f4" alt="Laravel" />
+<img src="https://img.shields.io/badge/Playwright-1a1a1a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTYgMy41djE3bDE0LTguNXoiIGZpbGw9IiNmNGY0ZjQiLz48L3N2Zz4=" alt="Playwright" />
+<img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=f4f4f4" alt="Python" />
+<img src="https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=f4f4f4" alt="Figma" />
+<img src="https://img.shields.io/badge/GitLab-1a1a1a?style=for-the-badge&logo=gitlab&logoColor=f4f4f4" alt="GitLab" />
+
+<br /><br />
+
+<img src="assets/title-stats.svg" width="100%" alt="stats.dat" />
+
+<br />
+
+<img width="100%" src="https://raw.githubusercontent.com/TanganIkan/TanganIkan/output/stats.svg" alt="GitHub stats, top languages, streaks and weekly activity" />
+
+<br /><br />
+
+<img src="assets/title-defrag.svg" width="100%" alt="disk_defrag" />
+
+<img width="100%" src="https://raw.githubusercontent.com/TanganIkan/TanganIkan/output/defrag.svg" alt="Contribution calendar drawn as a Windows-style disk defragmenter" />
+
 </div>
-
-###
-
-

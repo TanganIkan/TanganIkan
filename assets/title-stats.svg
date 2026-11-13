@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="stats.dat">
+  <title>stats.dat</title>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity="0.035"/>
+    </pattern>
+    <pattern id="dither" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="1" height="1" fill="#3d3d3d"/><rect x="2" y="2" width="1" height="1" fill="#3d3d3d"/>
+    </pattern>
+    <path id="spark" d="M0,-1 C0.1,-0.1 0.1,-0.1 1,0 C0.1,0.1 0.1,0.1 0,1 C-0.1,0.1 -0.1,0.1 -1,0 C-0.1,-0.1 -0.1,-0.1 0,-1Z"/>
+  </defs>
+  <line x1="44" y1="45" x2="426.0" y2="45" stroke="#3d3d3d" stroke-width="2" stroke-dasharray="6 6"/>
+  <line x1="774.0" y1="45" x2="1156" y2="45" stroke="#3d3d3d" stroke-width="2" stroke-dasharray="6 6"/>
+  <rect x="34" y="39" width="12" height="12" transform="rotate(45 40 45)" fill="#9c9c9c"/>
+  <rect x="1154" y="39" width="12" height="12" transform="rotate(45 1160 45)" fill="#9c9c9c"/>
+  <rect x="454.0" y="22" width="300" height="50" fill="#000000"/>
+  <path d="M454.0,72 L454.0,22 L754.0,22" fill="none" stroke="#4a4a4a" stroke-width="2"/>
+  <path d="M754.0,22 L754.0,72 L454.0,72" fill="none" stroke="#000000" stroke-width="2"/>
+  <rect x="450.0" y="18" width="300" height="50" fill="#121212"/>
+  <path d="M450.0,68 L450.0,18 L750.0,18" fill="none" stroke="#4a4a4a" stroke-width="2"/>
+  <path d="M750.0,18 L750.0,68 L450.0,68" fill="none" stroke="#000000" stroke-width="2"/>
+  <text x="600.0" y="54" text-anchor="middle" font-family="'Arial Black', 'Arial Bold', Gadget, Impact, sans-serif" font-weight="900" font-size="28" letter-spacing="3" fill="#0a0a0a" stroke="#3d3d3d" stroke-width="1.5" transform="translate(4 4)">stats.dat</text>
+  <text x="600.0" y="54" text-anchor="middle" font-family="'Arial Black', 'Arial Bold', Gadget, Impact, sans-serif" font-weight="900" font-size="28" letter-spacing="3" fill="#0a0a0a" stroke="#5a5a5a" stroke-width="1.5" transform="translate(2 2)">stats.dat</text>
+  <text x="600.0" y="54" text-anchor="middle" font-family="'Arial Black', 'Arial Bold', Gadget, Impact, sans-serif" font-weight="900" font-size="28" letter-spacing="3" fill="#f4f4f4" stroke="#f4f4f4" stroke-width="1">stats.dat</text>
+  <g transform="translate(444.0 20)">
+    <g transform="scale(9)">
+      <animateTransform attributeName="transform" type="scale" values="2.25;9;2.25" dur="2.4s" begin="0s" repeatCount="indefinite"/>
+      <use xlink:href="#spark" fill="#f4f4f4"/>
+    </g>
+  </g>
+  <g transform="translate(758.0 70)">
+    <g transform="scale(8)">
+      <animateTransform attributeName="transform" type="scale" values="2.0;8;2.0" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+      <use xlink:href="#spark" fill="#9c9c9c"/>
+    </g>
+  </g>
+</svg>
