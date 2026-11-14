@@ -1,0 +1,433 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Contribution calendar for TanganIkan drawn as a disk defragmenter">
+  <title>Contribution calendar for TanganIkan drawn as a disk defragmenter</title>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity="0.035"/></pattern>
+    <pattern id="dither" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="1" height="1" fill="#3d3d3d"/><rect x="2" y="2" width="1" height="1" fill="#3d3d3d"/>
+    </pattern>
+    <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="6" height="6" fill="#1c1c1c"/><rect width="3" height="6" fill="#d6d6d6"/>
+    </pattern>
+    <pattern id="check" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="#1c1c1c"/><rect width="2" height="2" fill="#9c9c9c"/><rect x="2" y="2" width="2" height="2" fill="#9c9c9c"/>
+    </pattern>
+    <pattern id="dots" width="5" height="5" patternUnits="userSpaceOnUse">
+      <rect width="5" height="5" fill="#1c1c1c"/><rect x="1" y="1" width="2" height="2" fill="#d6d6d6"/>
+    </pattern>
+    <path id="spark" d="M0,-1 C0.1,-0.1 0.1,-0.1 1,0 C0.1,0.1 0.1,0.1 0,1 C-0.1,0.1 -0.1,0.1 -1,0 C-0.1,-0.1 -0.1,-0.1 0,-1Z"/>
+  </defs>
+  <rect x="10" y="10" width="1180" height="330" fill="#0a0a0a" stroke="#3d3d3d" stroke-width="2"/>
+  <rect x="14" y="14" width="1172" height="30" fill="#262626"/>
+  <rect x="14" y="14" width="1172" height="30" fill="url(#dither)"/>
+  <g transform="translate(30 29)"><use xlink:href="#spark" transform="scale(7)" fill="#f4f4f4"/></g>
+  <text x="46" y="34" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="15" font-weight="bold" fill="#f4f4f4" letter-spacing="1">defrag.exe — drive C:\contributions</text>
+  <rect x="1094" y="18" width="22" height="20" fill="#2f2f2f"/><path d="M1094,38 L1094,18 L1116,18" fill="none" stroke="#4a4a4a" stroke-width="2"/><path d="M1116,18 L1116,38 L1094,38" fill="none" stroke="#000000" stroke-width="2"/>
+<line x1="1101" y1="33" x2="1109" y2="33" stroke="#f4f4f4" stroke-width="2"/>
+  <rect x="1122" y="18" width="22" height="20" fill="#2f2f2f"/><path d="M1122,38 L1122,18 L1144,18" fill="none" stroke="#4a4a4a" stroke-width="2"/><path d="M1144,18 L1144,38 L1122,38" fill="none" stroke="#000000" stroke-width="2"/>
+<rect x="1128" y="23" width="10" height="9" fill="none" stroke="#f4f4f4" stroke-width="1.6"/>
+  <rect x="1150" y="18" width="22" height="20" fill="#2f2f2f"/><path d="M1150,38 L1150,18 L1172,18" fill="none" stroke="#4a4a4a" stroke-width="2"/><path d="M1172,18 L1172,38 L1150,38" fill="none" stroke="#000000" stroke-width="2"/>
+<path d="M1156.5,23.5 L1165.5,32.5 M1165.5,23.5 L1156.5,32.5" stroke="#f4f4f4" stroke-width="2"/>
+  <text x="32" y="70" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="15" fill="#9c9c9c">drive C: ── 96 contributions in the last year</text>
+  <text x="1168" y="70" text-anchor="end" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="15" fill="#f4f4f4">defragmenting...<animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/></text>
+  <rect x="30" y="84" width="1140" height="186" fill="#050505"/><path d="M30,270 L30,84 L1170,84" fill="none" stroke="#000000" stroke-width="2"/><path d="M1170,84 L1170,270 L30,270" fill="none" stroke="#4a4a4a" stroke-width="2"/>
+  <text x="71.5" y="106" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="12" fill="#6e6e6e">nov</text>
+  <rect x="71.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="71.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="71.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="71.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="71.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="71.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="71.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="91.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="91.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="91.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="91.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="91.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="91.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="91.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="111.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="111.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="111.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="111.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="111.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="111.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="111.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="131.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="131.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="131.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="131.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="131.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="131.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="131.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <text x="151.5" y="106" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="12" fill="#6e6e6e">dec</text>
+  <rect x="151.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="151.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="151.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="151.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="151.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="151.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="151.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="171.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="171.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="171.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="171.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="171.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="171.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="171.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="191.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="191.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="191.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="191.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="191.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="191.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="191.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="211.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="211.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="211.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="211.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="211.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="211.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="211.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <text x="231.5" y="106" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="12" fill="#6e6e6e">jan</text>
+  <rect x="231.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="231.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="231.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="231.5" y="176" width="17" height="17" fill="#6e6e6e"/>
+  <rect x="231.5" y="196" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="231.5" y="216" width="17" height="17" fill="#6e6e6e"/>
+  <rect x="231.5" y="236" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="251.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="251.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="251.5" y="156" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="251.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="251.5" y="196" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="251.5" y="216" width="17" height="17" fill="#6e6e6e"/>
+  <rect x="251.5" y="236" width="17" height="17" fill="#6e6e6e"/>
+  <rect x="271.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="271.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="271.5" y="156" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="271.5" y="176" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="271.5" y="196" width="17" height="17" fill="#a8a8a8"/>
+  <rect x="271.5" y="216" width="17" height="17" fill="#f4f4f4"/>
+  <rect x="271.5" y="236" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="291.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="291.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="291.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="291.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="291.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="291.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="291.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <text x="311.5" y="106" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="12" fill="#6e6e6e">feb</text>
+  <rect x="311.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="311.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="311.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="311.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="311.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="311.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="311.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="331.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="331.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="331.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="331.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="331.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="331.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="331.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="351.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="351.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="351.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="351.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="351.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="351.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="351.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="371.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="371.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="371.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="371.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="371.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="371.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="371.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <text x="391.5" y="106" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="12" fill="#6e6e6e">mar</text>
+  <rect x="391.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="391.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="391.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="391.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="391.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="391.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="391.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="411.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="411.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="411.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="411.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="411.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="411.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="411.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="431.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="431.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="431.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="431.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="431.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="431.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="431.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="451.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="451.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="451.5" y="156" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="451.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="451.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="451.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="451.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="471.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="471.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="471.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="471.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="471.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="471.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="471.5" y="236" width="17" height="17" fill="#f4f4f4"/>
+  <text x="491.5" y="106" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="12" fill="#6e6e6e">apr</text>
+  <rect x="491.5" y="116" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="491.5" y="136" width="17" height="17" fill="#6e6e6e"/>
+  <rect x="491.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="491.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="491.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="491.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="491.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="511.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="511.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="511.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="511.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="511.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="511.5" y="216" width="17" height="17" fill="#f4f4f4"/>
+  <rect x="511.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="531.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="531.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="531.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="531.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="531.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="531.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="531.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="551.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="551.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="551.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="551.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="551.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="551.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="551.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <text x="571.5" y="106" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="12" fill="#6e6e6e">may</text>
+  <rect x="571.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="571.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="571.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="571.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="571.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="571.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="571.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="591.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="591.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="591.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="591.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="591.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="591.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="591.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="611.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="611.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="611.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="611.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="611.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="611.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="611.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="631.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="631.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="631.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="631.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="631.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="631.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="631.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="651.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="651.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="651.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="651.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="651.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="651.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="651.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <text x="671.5" y="106" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="12" fill="#6e6e6e">jun</text>
+  <rect x="671.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="671.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="671.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="671.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="671.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="671.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="671.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="691.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="691.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="691.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="691.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="691.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="691.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="691.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="711.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="711.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="711.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="711.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="711.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="711.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="711.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="731.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="731.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="731.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="731.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="731.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="731.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="731.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <text x="751.5" y="106" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="12" fill="#6e6e6e">jul</text>
+  <rect x="751.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="751.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="751.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="751.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="751.5" y="196" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="751.5" y="216" width="17" height="17" fill="#6e6e6e"/>
+  <rect x="751.5" y="236" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="771.5" y="116" width="17" height="17" fill="#6e6e6e"/>
+  <rect x="771.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="771.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="771.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="771.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="771.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="771.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="791.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="791.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="791.5" y="156" width="17" height="17" fill="#6e6e6e"/>
+  <rect x="791.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="791.5" y="196" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="791.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="791.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="811.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="811.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="811.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="811.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="811.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="811.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="811.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <text x="831.5" y="106" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="12" fill="#6e6e6e">aug</text>
+  <rect x="831.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="831.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="831.5" y="156" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="831.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="831.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="831.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="831.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="851.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="851.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="851.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="851.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="851.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="851.5" y="216" width="17" height="17" fill="#6e6e6e"/>
+  <rect x="851.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="871.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="871.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="871.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="871.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="871.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="871.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="871.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="891.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="891.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="891.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="891.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="891.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="891.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="891.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="911.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="911.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="911.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="911.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="911.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="911.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="911.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <text x="931.5" y="106" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="12" fill="#6e6e6e">sep</text>
+  <rect x="931.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="931.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="931.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="931.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="931.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="931.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="931.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="951.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="951.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="951.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="951.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="951.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="951.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="951.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="971.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="971.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="971.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="971.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="971.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="971.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="971.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="991.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="991.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="991.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="991.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="991.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="991.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="991.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <text x="1011.5" y="106" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="12" fill="#6e6e6e">oct</text>
+  <rect x="1011.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1011.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1011.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1011.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1011.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1011.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1011.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1031.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1031.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1031.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1031.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1031.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1031.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1031.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1051.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1051.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1051.5" y="156" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="1051.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1051.5" y="196" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="1051.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1051.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1071.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1071.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1071.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1071.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1071.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1071.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1071.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1091.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1091.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1091.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1091.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1091.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1091.5" y="216" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1091.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1111.5" y="116" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1111.5" y="136" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1111.5" y="156" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1111.5" y="176" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1111.5" y="196" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="1111.5" y="216" width="17" height="17" fill="#3d3d3d"/>
+  <rect x="1111.5" y="236" width="17" height="17" fill="#1c1c1c"/>
+  <rect x="68.5" y="113" width="23" height="143" fill="none" stroke="#f4f4f4" stroke-width="2">
+    <animate attributeName="x" calcMode="discrete" values="68.5;88.5;108.5;128.5;148.5;168.5;188.5;208.5;228.5;248.5;268.5;288.5;308.5;328.5;348.5;368.5;388.5;408.5;428.5;448.5;468.5;488.5;508.5;528.5;548.5;568.5;588.5;608.5;628.5;648.5;668.5;688.5;708.5;728.5;748.5;768.5;788.5;808.5;828.5;848.5;868.5;888.5;908.5;928.5;948.5;968.5;988.5;1008.5;1028.5;1048.5;1068.5;1088.5;1108.5" dur="6.36s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="32" y="287" width="15" height="15" fill="#1c1c1c" stroke="#3d3d3d"/><text x="54" y="300" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="14" fill="#9c9c9c">unused</text>
+  <rect x="148" y="287" width="15" height="15" fill="#3d3d3d" stroke="#3d3d3d"/><text x="170" y="300" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="14" fill="#9c9c9c">low</text>
+  <rect x="237" y="287" width="15" height="15" fill="#6e6e6e" stroke="#3d3d3d"/><text x="259" y="300" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="14" fill="#9c9c9c">medium</text>
+  <rect x="353" y="287" width="15" height="15" fill="#a8a8a8" stroke="#3d3d3d"/><text x="375" y="300" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="14" fill="#9c9c9c">high</text>
+  <rect x="451" y="287" width="15" height="15" fill="#f4f4f4" stroke="#3d3d3d"/><text x="473" y="300" font-family="'Courier New', Courier, 'Lucida Console', monospace" font-size="14" fill="#9c9c9c">max</text>
+  <rect x="776" y="282" width="396" height="26" fill="#050505"/><path d="M776,308 L776,282 L1172,282" fill="none" stroke="#000000" stroke-width="2"/><path d="M1172,282 L1172,308 L776,308" fill="none" stroke="#4a4a4a" stroke-width="2"/>
+  <clipPath id="prog"><rect x="780" y="286" width="388" height="18">
+    <animate attributeName="width" calcMode="discrete" values="0.0;16.3;32.6;48.9;65.2;81.5;97.7;114.0;130.3;146.6;162.9;179.2;195.5;211.8;228.1;244.4;260.7;277.0;293.2;309.5;325.8;342.1;358.4;374.7;391.0;0" keyTimes="0.000;0.037;0.075;0.113;0.150;0.188;0.225;0.263;0.300;0.338;0.375;0.412;0.450;0.487;0.525;0.562;0.600;0.638;0.675;0.713;0.750;0.787;0.825;0.863;0.900;1" dur="6.36s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <g fill="#f4f4f4" clip-path="url(#prog)">
+<rect x="780.0" y="286" width="13.3" height="18"/><rect x="796.3" y="286" width="13.3" height="18"/><rect x="812.6" y="286" width="13.3" height="18"/><rect x="828.9" y="286" width="13.3" height="18"/><rect x="845.2" y="286" width="13.3" height="18"/><rect x="861.5" y="286" width="13.3" height="18"/><rect x="877.8" y="286" width="13.3" height="18"/><rect x="894.0" y="286" width="13.3" height="18"/><rect x="910.3" y="286" width="13.3" height="18"/><rect x="926.6" y="286" width="13.3" height="18"/><rect x="942.9" y="286" width="13.3" height="18"/><rect x="959.2" y="286" width="13.3" height="18"/><rect x="975.5" y="286" width="13.3" height="18"/><rect x="991.8" y="286" width="13.3" height="18"/><rect x="1008.1" y="286" width="13.3" height="18"/><rect x="1024.4" y="286" width="13.3" height="18"/><rect x="1040.7" y="286" width="13.3" height="18"/><rect x="1057.0" y="286" width="13.3" height="18"/><rect x="1073.2" y="286" width="13.3" height="18"/><rect x="1089.5" y="286" width="13.3" height="18"/><rect x="1105.8" y="286" width="13.3" height="18"/><rect x="1122.1" y="286" width="13.3" height="18"/><rect x="1138.4" y="286" width="13.3" height="18"/><rect x="1154.7" y="286" width="13.3" height="18"/>
+  </g>
+  <g transform="translate(1176 88)"><g transform="scale(8)"><animateTransform attributeName="transform" type="scale" values="2.0;8;2.0" dur="2.4s" begin="0.6s" repeatCount="indefinite"/><use xlink:href="#spark" fill="#f4f4f4"/></g></g>
+  <rect x="10" y="10" width="1180" height="330" fill="url(#scan)"/>
+</svg>
